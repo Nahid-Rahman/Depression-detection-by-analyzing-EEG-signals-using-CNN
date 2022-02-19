@@ -2,6 +2,10 @@
 
 In this project I tried to detect depression by using CNN which was collected from EDF Data.
 
+*********************************************************************************************************************************
+CORE GOAL OF THIS PROJECT TO SHOW CNN IS ALSO AS MUCH EFFECTIVE AS OTHER METHOD WHILE USING EEG SIGNALS TO WORK ON SOMETHING
+*********************************************************************************************************************************
+
 The link of the dataset is provided in "Dataset.txt"
 
 #Data Collection Steps:
